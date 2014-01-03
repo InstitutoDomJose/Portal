@@ -1,0 +1,24 @@
+{
+  "name": "InstitutoDomJose",
+  "version": "1.0.0",
+  "title": "InstitutoDomJose - Site 2014",
+  "Description": "InstitutoDomJose de Educação e Cultura",
+  "homepage": "InstitutoDomJose.github.io/InstitutoDomJose/",
+  "author": {
+    "name": "\"DevEdmo\"",
+    "url": "http://www.idj.vidapanoramica.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/InstitutoDomJose/InstitutoDomJose.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-compass": "~0.7.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-ftp-deploy": "~0.1.1",
+    "grunt-rsync": "~0.2.1"
+  }
+}
